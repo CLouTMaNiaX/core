@@ -86,3 +86,4 @@ The architecture for BitClout was heavily-inspired by Bitcoin. We also owe a deb
 of gratitude to the developers of [btcd](https://github.com/btcsuite/btcd) for
 producing a truly amazing Go Bitcoin client that served as a reference when
 building BitClout.
+# core
